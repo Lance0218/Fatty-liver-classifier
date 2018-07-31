@@ -16,7 +16,7 @@ The analysis process of this study can be summarized into six steps:
 6. The test results were analyzed by statistical methods.  
 
 ## Simple code description
-### See the code for details
+Here are just some brief description, please see the code below for details:
 1. [Cases recorded](https://github.com/Lance0218/Fatty-liver-classifier/blob/master/Cases%20recorded.ipynb): Sort out and display data.  
 2. [Effect of different scaling type](https://github.com/Lance0218/Fatty-liver-classifier/blob/master/Effect%20of%20different%20scaling%20type.ipynb): show the influence of different data scaling method.  
 3. [Scatter plot](https://github.com/Lance0218/Fatty-liver-classifier/blob/master/Scatter%20plot.ipynb): observe the relationship between feature and steatosis or feature and other feature.  

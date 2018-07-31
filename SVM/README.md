@@ -10,5 +10,5 @@ The model training, test and analysis parts of this study was using Python (vers
 ## Simple code description 
 1.I had use StratifiedKFold (10) & LeaveOneOut for training model, show in folder "10Fold for Pathology _ NPathology" & "LOO for Pathology_NPathology".  
 2. Code title of "1" to "7" is the rough parameter setting.  
-3. Code title of "'1" to "'7" is the fine parameter setting.
+3. Code title of "'1" to "'7" is the fine parameter setting.  
 4. [Bar plot](https://github.com/Lance0218/Fatty-liver-classifier/blob/master/SVM/LOO%20for%20Pathology_NPathology/Bar%20plot.ipynb): comparison of single and multi-features of each diagnostic evaluation parameter.  
